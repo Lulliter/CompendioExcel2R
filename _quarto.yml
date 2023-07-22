@@ -77,7 +77,7 @@ website:
             - resource/citations.qmd
 
 
-
+# {{variable }} in YAML https://stackoverflow.com/questions/41620674/use-placeholders-in-yaml
   page-footer:
     left: |
       Content {{< fa brands creative-commons >}} {{< var course.copyright_year >}} by [{{< var instructor.name_no_title >}}]({{< var instructor.url >}}) <br>

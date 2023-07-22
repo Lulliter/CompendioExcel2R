@@ -74,6 +74,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -515,7 +517,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <h3 class="anchored" data-anchor-id="conditional-independencies">Conditional independencies</h3>
 <p>You can test if your stated relationships are correct by looking at the conditional independencies that are implied by the DAG. In dagitty.net, these appear in the sidebar in the “Testable implications” section. To show how this works, we’ll use a simulated dataset that I generated about a fictional mosquito net program. Download the data here if you want to follow along:</p>
 <ul>
-<li><a href="../files/data/generated_data/mosquito_nets.csv"> <code>mosquito_nets.csv</code></a></li>
+<li><a href="../files/data/generated_data/mosquito_nets.csv"><i class="fa-solid fa-table" aria-label="table"></i> <code>mosquito_nets.csv</code></a></li>
 </ul>
 <p>Researchers are interested in whether using mosquito nets decreases an individual’s risk of contracting malaria. They have collected data from 1,752 households in an unnamed country and have variables related to environmental factors, individual health, and household characteristics. Additionally, this country has a special government program that provides free mosquito nets to households that meet specific requirements: to qualify for the program, there must be more than 4 members of the household, and the household’s monthly income must be lower than $700 a month. Households are not automatically enrolled in the program, and many do not use it. The data is not experimental—researchers have no control over who uses mosquito nets, and individual households make their own choices over whether to apply for free nets or buy their own nets, as well as whether they use the nets if they have them.</p>
 <div class="cell" data-layout-align="center">
@@ -561,7 +563,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p>According to the DAG, malaria risk is caused by income, temperatures, health, insecticide resistance, and mosquito net use. People who live in hotter regions, have lower incomes, have worse health, are surrounded by mosquitoes with high resistance to insecticide, and who do not use mosquito nets are at higher risk of contracting malaria than those who do not. Mosquito net use is caused by income, nighttime temperatures, health, the number of people living in the house, and eligibility for the free net program. People who live in areas that are cooler at night, have higher incomes, have better health, have more people in the home, and are eligible for free government nets are more likely to regularly use nets than those who do not. The DAG also shows that eligibility for the free net program is caused by income and household size, since households must meet specific thresholds to qualify.</p>
 <p>First, let’s download the dataset, put in a folder named <code>data</code>, and load it:</p>
 <ul>
-<li><a href="../files/data/generated_data/mosquito_nets.csv"> <code>mosquito_nets.csv</code></a></li>
+<li><a href="../files/data/generated_data/mosquito_nets.csv"><i class="fa-solid fa-table" aria-label="table"></i> <code>mosquito_nets.csv</code></a></li>
 </ul>
 <div class="cell" data-layout-align="center">
 <div class="sourceCode cell-code" id="cb15"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb15-1"><a href="#cb15-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Load the data.</span></span>
@@ -882,11 +884,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">Content 2023 by <a href="https://www.linkedin.com/in/luisa-m-mimmi/">Luisa M. Mimmi</a> <br> All content licensed under a <a href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International license (CC BY-NC 4.0)</a></div>   
+    <div class="nav-footer-left">Content <i class="fa-brands fa-creative-commons" aria-label="creative-commons"></i> 2023 by <a href="https://www.linkedin.com/in/luisa-m-mimmi/">Luisa M. Mimmi</a> <br> All content licensed under a <i class="fa-brands fa-creative-commons" aria-label="creative-commons"></i> <i class="fa-brands fa-creative-commons-by" aria-label="creative-commons-by"></i> <i class="fa-brands fa-creative-commons-nc" aria-label="creative-commons-nc"></i> <a href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International license (CC BY-NC 4.0)</a></div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>
-    <div class="nav-footer-right">Made with and <a href="https://quarto.org/">Quarto</a><br> <a href="https://github.com/Lulliter/CompendioExcel2R">View the source at GitHub</a></div>
+    <div class="nav-footer-right">Made with <i class="fa-brands fa-r-project" aria-label="r-project"></i> and <a href="https://quarto.org/">Quarto</a><br> <a href="https://github.com/Lulliter/CompendioExcel2R">View the source at <i class="fa-brands fa-github" aria-label="github"></i> GitHub</a></div>
   </div>
 </footer>
 
