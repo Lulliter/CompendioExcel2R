@@ -21,16 +21,16 @@ website:
   site-url: "https://lulliter.github.io/CompendioExcel2R"
   # "https://evalsp23.classes.andrewheiss.com"
 
-  favicon: "/files/icon-512.png"
+  favicon: "/files/xls_icons8.png"
 
   twitter-card:
-    image: "/files/social-image-sp23.png"
+    image: "/files/foto_stock_analisi.png"
     card-style: summary_large_image
     creator: "@lulliter"
     # site: "@andrewheiss"
 
   open-graph:
-    image: "/files/social-image-sp23.png"
+    image: "/files/foto_stock_analisi.png"
     locale: en_US
 
   navbar:

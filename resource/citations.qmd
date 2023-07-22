@@ -2,8 +2,8 @@
 title: Citations and bibliography
 ---
 
-You can [download a BibTeX file](/files/bib/references.bib) of all the non-web-based readings in the course:
+You can [download a BibTeX file](/files/bib/Excel2R.bib) of all the non-web-based readings in the course:
 
-- [{{< fa book >}} `references.bib`](/files/bib/references.bib)
+- [{{< fa book >}} `Excel2R.bib`](/files/bib/Excel2R.bib)
 
 You can open the file in [BibDesk on macOS](http://bibdesk.sourceforge.net/), [JabRef on Windows](http://www.jabref.org/), or [Zotero](https://www.zotero.org/) or [Mendeley](https://www.mendeley.com/) online.

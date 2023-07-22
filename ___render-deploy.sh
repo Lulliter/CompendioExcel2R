@@ -1,16 +1,18 @@
 #=========================================== (Render site Locally) ================================================#
 
- # quarto preview
+# ====== RENDER the entire site
+# quarto preview
 quarto preview
-quarto render
-quarto publish
 
 
 # ====== RENDER the entire site
-
+quarto render
 # render a single file only
-#
 
+# ====== PUBLISH
+# quarto publish  # quasto stronzo mi crea la git branch "gh-pages" -->  FIX delete branch
+			#git branch -d branch_to_delete # { not allowed IF I am on it}
+			#git branch -D branch_to_delete # { -D if you have changes that are not merged and STILL delete}
 
 #=========================================== (Push to Github repo) ================================================#
 # check status
@@ -45,7 +47,7 @@ git commit -m "$msg"
 		# git commit -m "revision + addition"   -m "01_... + 00_carico_tab-contesto.qmd "
 
 # Push source and build repos.
-cd .
+#cd .
 git push origin master
 
 

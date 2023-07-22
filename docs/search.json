@@ -11,21 +11,21 @@
     "href": "content/01-content.html",
     "title": "Evaluation and the causal revolution",
     "section": "",
-    "text": "The syllabus, content, examples, and assignments pages for this class\n Chapter 1 in Impact Evaluation in Practice (wb-eval?)\n Chapters 1 and 2 in The Effect (Huntington-Klein:2021?)\n DJ Patil, “What Makes a Radical and Revolutionary Technology?”\n\n(DJ Patil is the former Chief Data Scientist of the United States under President Obama. He gave this forum address at Brigham Young University on February 13, 2018.)\n\n Stephen Goldsmith, “Next Generation of Public Employees Must Understand Data and Policy”\n Hadley Wickham, “Data Science: How is it Different To Statistics?”"
+    "text": "The , content, examples, and pages for this class\n Chapter 1 in Impact Evaluation in Practice (wb-eval?)\n Chapters 1 and 2 in The Effect (Huntington-Klein:2021?)\n DJ Patil, “What Makes a Radical and Revolutionary Technology?”\n\n(DJ Patil is the former Chief Data Scientist of the United States under President Obama. He gave this forum address at Brigham Young University on February 13, 2018.)\n\n Stephen Goldsmith, “Next Generation of Public Employees Must Understand Data and Policy”\n Hadley Wickham, “Data Science: How is it Different To Statistics?”"
   },
   {
     "objectID": "content/01-content.html#readings",
     "href": "content/01-content.html#readings",
     "title": "Evaluation and the causal revolution",
     "section": "",
-    "text": "The syllabus, content, examples, and assignments pages for this class\n Chapter 1 in Impact Evaluation in Practice (wb-eval?)\n Chapters 1 and 2 in The Effect (Huntington-Klein:2021?)\n DJ Patil, “What Makes a Radical and Revolutionary Technology?”\n\n(DJ Patil is the former Chief Data Scientist of the United States under President Obama. He gave this forum address at Brigham Young University on February 13, 2018.)\n\n Stephen Goldsmith, “Next Generation of Public Employees Must Understand Data and Policy”\n Hadley Wickham, “Data Science: How is it Different To Statistics?”"
+    "text": "The , content, examples, and pages for this class\n Chapter 1 in Impact Evaluation in Practice (wb-eval?)\n Chapters 1 and 2 in The Effect (Huntington-Klein:2021?)\n DJ Patil, “What Makes a Radical and Revolutionary Technology?”\n\n(DJ Patil is the former Chief Data Scientist of the United States under President Obama. He gave this forum address at Brigham Young University on February 13, 2018.)\n\n Stephen Goldsmith, “Next Generation of Public Employees Must Understand Data and Policy”\n Hadley Wickham, “Data Science: How is it Different To Statistics?”"
   },
   {
     "objectID": "content/01-content.html#slides",
     "href": "content/01-content.html#slides",
     "title": "Evaluation and the causal revolution",
     "section": "Slides",
-    "text": "Slides\n\n\n\n\n\n\nWarning\n\n\n\nImportant!!: In the “Class details” video, I say that there are three books for the class: the World Bank evaluation book, ’Metrics Matter, and Causal Inference: The Mixtape. That’s not the case this semester, since we’re using the new The Effect book, which replaces both ’Metrics Matter and the Mixtape. So ignore that part of the video. .\n\n\nThe slides for today’s lesson are available online as an HTML file. Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the slides below and navigate through them with your left and right arrow keys.\n\n View all slides in new window  Download PDF of all slides\n\n\n\nIntroduction\n\n\nData science and public service\n\n\nEvidence, evaluation, and causation (1)\n\n\nEvidence, evaluation, and causation (2)\n\n\nClass details"
+    "text": "Slides\n\n\n\n\n\n\nWarning\n\n\n\nImportant!!: In the “Class details” video, I say that there are three books for the class: the World Bank evaluation book, ’Metrics Matter, and Causal Inference: The Mixtape. \n\n\nThe slides for today’s lesson are available online as an HTML file. Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the slides below and navigate through them with your left and right arrow keys.\n\n View all slides in new window  Download PDF of all slides\n\n\n\nIntroduction\n\n\nData science and public service\n\n\nEvidence, evaluation, and causation (1)\n\n\nEvidence, evaluation, and causation (2)\n\n\nClass details"
   },
   {
     "objectID": "content/02-content.html",
@@ -74,7 +74,7 @@
     "href": "content/02-content.html#bayesian-statistics-resources",
     "title": "Regression and inference",
     "section": "Bayesian statistics resources",
-    "text": "Bayesian statistics resources\nIn class I briefly mentioned the difference between frequentist and Bayesian statistics. You can see a bunch of additional resources and examples of these two approaches to statistics here. This huge blog post also shows how to do multilevel models with Bayesian models."
+    "text": "Bayesian statistics resources\nIn class I briefly mentioned the difference between frequentist and Bayesian statistics. You can see a bunch of . This huge blog post also shows how to do multilevel models with Bayesian models."
   },
   {
     "objectID": "content/index.html",
@@ -130,7 +130,7 @@
     "href": "resource/citations.html",
     "title": "Citations and bibliography",
     "section": "",
-    "text": "You can download a BibTeX file of all the non-web-based readings in the course:\n\n references.bib\n\nYou can open the file in BibDesk on macOS, JabRef on Windows, or Zotero or Mendeley online."
+    "text": "You can download a BibTeX file of all the non-web-based readings in the course:\n\n Excel2R.bib\n\nYou can open the file in BibDesk on macOS, JabRef on Windows, or Zotero or Mendeley online."
   },
   {
     "objectID": "resource/data.html",
