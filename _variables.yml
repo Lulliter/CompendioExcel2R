@@ -19,15 +19,15 @@ course:
   time: "7:15–9:45 PM"
   location: "Aderhold Learning Center 204"
   dates: "January 9–May 2, 2023"
-  github: "https://github.com/Lulliter/Excel2R"
-  url: "https://lulliter.github.io/Excel2R/" # "https://evalsp23.classes.andrewheiss.com"
+  github: "https://github.com/Lulliter/CompendioExcel2R"
+  url: "https://lulliter.github.io/CompendioExcel2R/" # "https://evalsp23.classes.andrewheiss.com"
   copyright_year: "2023"
 #  slack: "https://gsuevalsp2023.slack.com"
 
 # university:
 #   name: Georgia State University
 #   url: "https://www.gsu.edu"
-# 
+#
 # school:
 #   name: Andrew Young School of Policy Studies
 #   url: "https://aysps.gsu.edu/"

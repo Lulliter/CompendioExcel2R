@@ -25,21 +25,7 @@
     "href": "content/01-content.html#slides",
     "title": "Evaluation and the causal revolution",
     "section": "Slides",
-    "text": "Slides\n\n\n\n\n\n\nWarning\n\n\n\nImportant!!: In the “Class details” video, I say that there are three books for the class: the World Bank evaluation book, ’Metrics Matter, and Causal Inference: The Mixtape. That’s not the case this semester, since we’re using the new The Effect book, which replaces both ’Metrics Matter and the Mixtape. So ignore that part of the video. The slides are updated with the correct books, though: see here.\n\n\nThe slides for today’s lesson are available online as an HTML file. Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the slides below and navigate through them with your left and right arrow keys.\n\n View all slides in new window  Download PDF of all slides\n\n\n\nIntroduction\n\n\nData science and public service\n\n\nEvidence, evaluation, and causation (1)\n\n\nEvidence, evaluation, and causation (2)\n\n\nClass details\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nFun fact: If you type ? (or shift + /) while going through the slides, you can see a list of special slide-specific commands."
-  },
-  {
-    "objectID": "content/01-content.html#videos",
-    "href": "content/01-content.html#videos",
-    "title": "Evaluation and the causal revolution",
-    "section": "Videos",
-    "text": "Videos\n\n\n\n\n\n\nWarning\n\n\n\nImportant!!: In the “Class details” video, I say that there are three books for the class: the World Bank evaluation book, ’Metrics Matter, and Causal Inference: The Mixtape. That’s not the case this semester, since we’re using the new The Effect book, which replaces both ’Metrics Matter and the Mixtape. So ignore that part of the video. The slides are updated with the correct books, though: see here.\n\n\nVideos for each section of the lecture are available at this YouTube playlist.\n\nIntroduction\nData science and public service\nEvidence, evaluation, and causation (1)\nEvidence, evaluation, and causation (2)\nClass details\n\nYou can also watch the playlist (and skip around to different sections) here:"
-  },
-  {
-    "objectID": "content/01-content.html#in-class-stuff",
-    "href": "content/01-content.html#in-class-stuff",
-    "title": "Evaluation and the causal revolution",
-    "section": "In-class stuff",
-    "text": "In-class stuff\nHere are all the materials we’ll use in class:\n\nSession 1 in-person slides (PDF)\n\nRStudio labs:\n\nRStudio.cloud project\nProject .zip file\nLab slides 1: Markdown and universal writing (PDF)\nLab slides 2: Getting started with R and RStudio (PDF)\nLab slides 3: Data basics (PDF)\nLab slides 4: Visualize data with ggplot2 (PDF)\nLab slides 5: Transform data with dplyr (PDF)"
+    "text": "Slides\n\n\n\n\n\n\nWarning\n\n\n\nImportant!!: In the “Class details” video, I say that there are three books for the class: the World Bank evaluation book, ’Metrics Matter, and Causal Inference: The Mixtape. That’s not the case this semester, since we’re using the new The Effect book, which replaces both ’Metrics Matter and the Mixtape. So ignore that part of the video. .\n\n\nThe slides for today’s lesson are available online as an HTML file. Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the slides below and navigate through them with your left and right arrow keys.\n\n View all slides in new window  Download PDF of all slides\n\n\n\nIntroduction\n\n\nData science and public service\n\n\nEvidence, evaluation, and causation (1)\n\n\nEvidence, evaluation, and causation (2)\n\n\nClass details"
   },
   {
     "objectID": "content/02-content.html",
@@ -137,7 +123,7 @@
     "href": "index.html",
     "title": "Analisi Dati in Excel2R",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "In questo sito Analisi Dati in Excel2R"
   },
   {
     "objectID": "resource/citations.html",

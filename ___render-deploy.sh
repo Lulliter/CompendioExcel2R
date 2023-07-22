@@ -1,16 +1,15 @@
 #=========================================== (Render site Locally) ================================================#
-<<<<<<< HEAD
+
  # quarto preview
-=======
 quarto preview
 quarto render
-quarto publish 
+quarto publish
 
->>>>>>> 8123fee (rebuilt on Fri Jul 21 21:57:59 CEST 2023)
+
 # ====== RENDER the entire site
 
 # render a single file only
-# 
+#
 
 
 #=========================================== (Push to Github repo) ================================================#
@@ -21,7 +20,7 @@ git status
 git add docs/* # specific
 git add -A # ALL
 git add -u # tracked
-<<<<<<< HEAD
+
 
 
  git add 02_carico_ind.qmd
@@ -34,9 +33,7 @@ git add -u # tracked
  git add  data_raw/RAN_Localizz.csv
 
 =======
- 
- 
->>>>>>> 8123fee (rebuilt on Fri Jul 21 21:57:59 CEST 2023)
+
 # Create Std commit "message"....
 msg="rebuilt on `date`"
 if [ $# -eq 1 ]
@@ -44,8 +41,8 @@ if [ $# -eq 1 ]
 fi
 # ... Commit Those changes.
 git commit -m "$msg"
-		# git commit -m "Presentazione"
-		# git commit -m "revision + addition"   -m "01_... + 00_carico_tab-contesto.qmd " 
+		# git commit -m "01"
+		# git commit -m "revision + addition"   -m "01_... + 00_carico_tab-contesto.qmd "
 
 # Push source and build repos.
 cd .

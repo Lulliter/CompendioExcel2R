@@ -2,6 +2,4 @@
 title: "Analisi Dati in Excel2R"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+In questo sito Analisi Dati in Excel2R 
